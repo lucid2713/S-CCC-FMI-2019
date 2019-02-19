@@ -1,8 +1,8 @@
 # S-CCC-FMI-2019
 ### Self Creative Coding Club, FMI MADtech, 2019<br>
 
-This is Self Creative Coding Club(S-CCC) organized by students in MADtech(Master in Media, Art, Design and Technology), Frank Mohr Institute(FMI).<br>
-We study and code MasMSP together, to get used to it and to play better with it. 
+This is Self Creative Coding Club(S-CCC) organized by students in MADtech(Master in Media, Art, Design and Technology), [Frank Mohr Institute(FMI)](http://fmi.academieminerva.nl/).<br>
+We study and code MaxMSP together, to get used to it and to play better with it. 
 <br><br>
 Come and Join *every Monday 7PM @ FMI basement*
 <br>
