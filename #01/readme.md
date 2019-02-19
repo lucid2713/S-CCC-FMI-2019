@@ -10,5 +10,5 @@
 
 <hr>
 
-![maxpatch screenshot 1](/#01-screenshot-01.png)
-![maxpatch screenshot 2](/#01-screenshot-02.png)
+![maxpatch screenshot 1](/screenshot-01.png)
+![maxpatch screenshot 2](/screenshot-02.png)
