@@ -9,6 +9,3 @@
 * Nancy
 
 <hr>
-
-![maxpatch screenshot 1](/screenshot-01.png)
-![maxpatch screenshot 2](/screenshot-02.png)
