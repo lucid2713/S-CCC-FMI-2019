@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 500.0, 133.0, 668.0, 786.0 ],
+		"rect" : [ 319.0, 120.0, 1065.0, 845.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1468,45 +1468,6 @@
 			}
 , 			{
 				"box" : 				{
-					"data" : 					{
-						"clips" : [ 							{
-								"absolutepath" : "Clap 01.wav",
-								"filename" : "Clap 01.wav",
-								"filekind" : "audiofile",
-								"loop" : 0,
-								"content_state" : 								{
-									"timestretch" : [ 0 ],
-									"formantcorrection" : [ 0 ],
-									"originallength" : [ 0.0, "ticks" ],
-									"mode" : [ "basic" ],
-									"formant" : [ 1.0 ],
-									"originaltempo" : [ 120.0 ],
-									"quality" : [ "basic" ],
-									"basictuning" : [ 440 ],
-									"originallengthms" : [ 0.0 ],
-									"play" : [ 0 ],
-									"speed" : [ 1.0 ],
-									"pitchcorrection" : [ 0 ],
-									"followglobaltempo" : [ 0 ],
-									"slurtime" : [ 0.0 ],
-									"pitchshift" : [ 1.0 ]
-								}
-
-							}
- ]
-					}
-,
-					"id" : "obj-151",
-					"maxclass" : "playlist~",
-					"numinlets" : 1,
-					"numoutlets" : 5,
-					"outlettype" : [ "signal", "signal", "signal", "", "dictionary" ],
-					"patching_rect" : [ 385.0, 299.0, 150.0, 30.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"fontface" : 1,
 					"id" : "obj-149",
 					"maxclass" : "comment",
@@ -2009,12 +1970,12 @@
 					"fontface" : 1,
 					"fontsize" : 16.0,
 					"id" : "obj-108",
-					"linecount" : 5,
+					"linecount" : 4,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 45.0, 27.0, 109.0, 96.0 ],
-					"text" : "Session 3: \nWhat's relly going on inside Max\n(part 1)"
+					"patching_rect" : [ 45.0, 27.0, 109.0, 78.0 ],
+					"text" : "Session 3: \nWhat's relly going on inside Max"
 				}
 
 			}
@@ -3021,8 +2982,8 @@
 , 			{
 				"box" : 				{
 					"angle" : 270.0,
-					"grad1" : [ 0.995808362960815, 0.800102710723877, 0.399984955787659, 1.0 ],
-					"grad2" : [ 0.995808362960815, 0.800102710723877, 0.399984955787659, 1.0 ],
+					"grad1" : [ 0.995808362960815, 0.800102710723877, 0.399984955787659, 0.3 ],
+					"grad2" : [ 0.995808362960815, 0.800102710723877, 0.399984955787659, 0.3 ],
 					"id" : "obj-105",
 					"maxclass" : "panel",
 					"mode" : 1,
@@ -3036,8 +2997,8 @@
 , 			{
 				"box" : 				{
 					"angle" : 270.0,
-					"grad1" : [ 0.800000071525574, 1.0, 0.400000035762787, 1.0 ],
-					"grad2" : [ 0.800000071525574, 1.0, 0.400000035762787, 1.0 ],
+					"grad1" : [ 0.800000071525574, 1.0, 0.400000035762787, 0.3 ],
+					"grad2" : [ 0.800000071525574, 1.0, 0.400000035762787, 0.3 ],
 					"id" : "obj-106",
 					"maxclass" : "panel",
 					"mode" : 1,
