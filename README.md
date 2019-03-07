@@ -15,7 +15,7 @@ Come and Join **every Monday 7PM @ FMI basement**
 * [Kadenze (Programming Max: Structuring Interactive Software for Digital Arts)](https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts-i/info)
 * [Youtube (Programming for People, maxmsp 7)](https://www.youtube.com/playlist?list=PLmEFHC9k1VTZW-VORirBGcICKpC82WIFD)
 
-### topics
+### Topics
 * Data processing
   - data receiving, parsing, translating into sound, visual etc
 * Node.js
