@@ -16,10 +16,21 @@ Come and Join **every Monday 7PM @ FMI basement**
 * [Youtube (Programming for People, maxmsp 7)](https://www.youtube.com/playlist?list=PLmEFHC9k1VTZW-VORirBGcICKpC82WIFD)
 
 ### topics
-* Data processing (data receiving, parsing, translating into sound, visual etc)
-* [Node.js with max](https://cycling74.com/articles/node-for-max-intro-%E2%80%93-let%E2%80%99s-get-started?utm_source=Max+Friends+List&utm_campaign=dabe88be3c-EMAIL_CAMPAIGN_2019_01_08_05_38&utm_medium=email&utm_term=0_6c6d94f223-dabe88be3c-67133533&mc_cid=dabe88be3c&mc_eid=2f6faf24f5)
-* [Processing osc, interaction with other softwares(p5.js, arduino, processing etc)](https://medium.com/@contra/transmitting-osc-data-via-websocket-43fcc8bfade7?fbclid=IwAR2Jkes8kO9zNNZml_6RlxsUVmbCVLGpie_u3rNoVPZyy9DrVtsjVQjVa3k)
-* interaction a/v with movement or other (human?)senses
+* Data processing
+  - data receiving, parsing, translating into sound, visual etc
+* Node.js
+  - [Node.js with max](https://cycling74.com/articles/node-for-max-intro-%E2%80%93-let%E2%80%99s-get-started?utm_source=Max+Friends+List&utm_campaign=dabe88be3c-EMAIL_CAMPAIGN_2019_01_08_05_38&utm_medium=email&utm_term=0_6c6d94f223-dabe88be3c-67133533&mc_cid=dabe88be3c&mc_eid=2f6faf24f5)
+* Processing osc, interaction with other softwares(p5.js, arduino, processing etc)
+  - [Transmiting OSC data via WebSocket](https://medium.com/@contra/transmitting-osc-data-via-websocket-43fcc8bfade7?fbclid=IwAR2Jkes8kO9zNNZml_6RlxsUVmbCVLGpie_u3rNoVPZyy9DrVtsjVQjVa3k)
+* Interaction with movement and senses
+  - [Pose detection](https://github.com/tommymitch/posenetosc)
+  - [Pose - human bady, face, motion detection](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - MC Movement Studies package in Max
+* Machine learning
+  - [Machine learning library for Max and Pd](https://github.com/irllabs/ml-lib)
+  - ml. package in Max
+* Audio Visual
+  - [Interactive audio-visual tools](https://gumroad.com/tmhglnd)
 
 <br>
 <hr>
