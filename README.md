@@ -2,7 +2,7 @@
 ## Self Creative Coding Club, FMI MADtech, 2019<br>
 
 This is Self Creative Coding Club(S-CCC) organized by students in MADtech(Master in Media, Art, Design and Technology), [Frank Mohr Institute(FMI)](http://fmi.academieminerva.nl/).<br>
-We study and code MaxMSP together, to get used to it and to play better with it. 
+We study and code MaxMSP together, to get used to it and to play better with it.
 <br><br>
 Come and Join **every Monday 7PM @ FMI basement**
 <br>
@@ -36,38 +36,54 @@ Come and Join **every Monday 7PM @ FMI basement**
 <hr>
 <br>
 
-## 18.02.2019 First MaxMSP Study 
+## 18.02.2019 First MaxMSP Study
 
 ### Kadenze "Programming Max: Structuring Interactive Software for Digital Arts"
-[Session 2 - Fundamental Elements](https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts-i/sessions/fundamental-elements) 
+[Session 2 - Fundamental Elements](https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts-i/sessions/fundamental-elements)
 
 #### Praticipants
 * Mina
 * Snow
 * Nancy
 
-![maxpatch screenshot 1](./assets/img/18.02.2019-screenshot-01.png)<img width="700"></img>
-![maxpatch screenshot 2](./assets/img/18.02.2019-screenshot-02.png)<img width="700"></img>
-
 <br>
 <hr>
 <br>
 
-## 04.03.2019 2nd MaxMSP Study 
+## 04.03.2019 2nd MaxMSP Study
 
 ### Kadenze "Programming Max: Structuring Interactive Software for Digital Arts"
-[Session 3 - What's Really Going on Inside Max](https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts-i/sessions/what-s-really-going-on-inside-max) 
+[Session 3 - What's Really Going on Inside Max](https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts-i/sessions/what-s-really-going-on-inside-max)
 
 #### Praticipants
 * Mina
 
-![maxpatch screenshot 1](./assets/img/04.03.2019-screenshot-01.png)<img width="700"></img>
-![maxpatch screenshot 2](./assets/img/04.03.2019-screenshot-02.png)<img width="700"></img>
-![maxpatch screenshot 3](./assets/img/04.03.2019-screenshot-03.png)<img width="700"></img>
-![maxpatch screenshot 4](./assets/img/04.03.2019-screenshot-04.png)<img width="700"></img>
-![maxpatch screenshot 5](./assets/img/04.03.2019-screenshot-05.png)<img width="700"></img>
-
 <br>
 <hr>
 <br>
 
+## 11.03.2019 3rd MaxMSP Study
+
+### Kadenze "Programming Max: Structuring Interactive Software for Digital Arts"
+[Session 4: Getting Mathematical: Arithmetic, Logic, Matrices](https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts-i/sessions/getting-mathematical-arithmetic-logic-matrices)
+* video clip 1 to 5
+
+#### Praticipants
+* Mina
+* Vanina
+* Martina
+* Nancy
+* Joowon
+* Snow
+
+#### Contents
+- audio / video mixing (addition)
+- signal / video cross fade effect (linear interpolation)
+- clipping / audio distortion
+- random noise (video and audio)
+- scales, ramping signals, making pure silence
+
+
+<br>
+<hr>
+<br>
