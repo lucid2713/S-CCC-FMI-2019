@@ -47,8 +47,6 @@ Come and Join **every Monday 7PM @ FMI basement**
 * Nancy
 
 <br>
-<hr>
-<br>
 
 ## 04.03.2019 2nd MaxMSP Study
 
@@ -58,8 +56,6 @@ Come and Join **every Monday 7PM @ FMI basement**
 #### Praticipants
 * Mina
 
-<br>
-<hr>
 <br>
 
 ## 11.03.2019 3rd MaxMSP Study
@@ -85,5 +81,4 @@ Come and Join **every Monday 7PM @ FMI basement**
 
 
 <br>
-<hr>
 <br>
