@@ -56,6 +56,11 @@ Come and Join **every Monday 7PM @ FMI basement**
 #### Praticipants
 * Mina
 
+#### Contents
+- order, control flow
+- making drum machine
+- jitter effects
+
 <br>
 
 ## 11.03.2019 3rd MaxMSP Study
